@@ -1,4 +1,4 @@
-# ft_printf
+# ft_printf ![Grade](https://img.shields.io/badge/Grade-100/100-brightgreen)
 
 This is a re-implementation of the C standard library function `printf`. The `ft_printf` function has the same functionality as `printf`, but is implemented using only the functions from the `libft` library.
 
